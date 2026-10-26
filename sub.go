@@ -7,5 +7,5 @@ func Sub(a, b int) int {
 
 // Neg returns -a.
 func Neg(a int) int {
-	return -a
+	return 0 - a
 }
